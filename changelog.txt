@@ -1,5 +1,5 @@
 ------------------------ Version v233.2zEx: ---------------
-● Support for 'stubborn' games, such as dumping game
+● Support for 'stubborn' games, such as dumping √Letter-方根書簡
 ● Solved maybe some strange bugs?          
 ------------------------ Version v233.2z10: ---------------                       
 ● Added 2z2 Version's Mode 5 (>Mode6)                         
